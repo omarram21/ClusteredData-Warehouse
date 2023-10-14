@@ -22,10 +22,10 @@ public class DealModel {
     @SequenceGenerator(name = "deal_id_sequence", sequenceName = "deal_id_sequence", allocationSize = 1)
     private Long dealId;
 
-    @Column(name = "from_currency",nullable = false, length = 2)
+    @Column(name = "from_currency",nullable = false, length = 3)
     private String fromCurrency;
 
-    @Column(name = "to_currency" ,nullable = false, length = 2)
+    @Column(name = "to_currency" ,nullable = false, length = 3)
     private String toCurrency;
 
     @Column(name = "deal_timestamp")

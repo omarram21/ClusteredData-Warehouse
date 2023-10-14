@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.ramadan.clusteredData.warehouse.ClusteredDataWarehouseApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.326 s - in com.ramadan.clusteredData.warehouse.ClusteredDataWarehouseApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 14.093 s - in com.ramadan.clusteredData.warehouse.ClusteredDataWarehouseApplicationTests
