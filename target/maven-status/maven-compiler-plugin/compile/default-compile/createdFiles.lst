@@ -1,0 +1,10 @@
+com\ramadan\clusteredData\warehouse\Repository\DealRepository.class
+com\ramadan\clusteredData\warehouse\service\IDealService.class
+com\ramadan\clusteredData\warehouse\mapper\DealMapper.class
+com\ramadan\clusteredData\warehouse\controller\DealController.class
+com\ramadan\clusteredData\warehouse\service\DealService.class
+com\ramadan\clusteredData\warehouse\ClusteredDataWarehouseApplication.class
+com\ramadan\clusteredData\warehouse\model\Response.class
+com\ramadan\clusteredData\warehouse\model\DTO\DealDTO.class
+com\ramadan\clusteredData\warehouse\model\Response$ResponseBuilder.class
+com\ramadan\clusteredData\warehouse\model\DealModel.class
